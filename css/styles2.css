@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+    text-align: right;
+    line-height: normal;
+    font-family: sans-serif;
+    font-size: 40px;
+}
+
+h2 {
+    font-weight: bold;
+    font-family: sans-serif;
+    color:green;
+    font-style: italic;
+}
+
+p {
+    font-family: fantasy;
+    line-height: 20px;
+    text-transform: capitalize;
+    text-emphasis-color: brown;
+}
