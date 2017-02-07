@@ -1,0 +1,27 @@
+body{
+    background: url(/images/noisy/vb5.png) repeat;
+    font-family: tahoma, Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-decoration: overline;
+    text-decoration: underline;
+    color: indigo;
+}
+
+h2{
+    font-family: monospace;
+    font-weight: bold;
+    font-style: italic;
+    font-variant: normal;
+}
+
+p{
+    text-align: left;
+    font-size: 20px;
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
