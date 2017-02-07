@@ -1,15 +1,22 @@
 body {
         background-color: orange;
 }
+
 h1 {
-    color: orange;
+    color: black;
     text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+p   {
+    font-family: sans-serif;
 }
 
 h2 {
     color: green;
     font-style: italic;
-    text-align: center;
+    text-align: left;
     text-decoration: underline;
 }
 
@@ -20,3 +27,12 @@ p {
 ul {
     font-size: 20px;
     line-height: 30px;
+}
+ol  {
+    font-size: 20px;
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
