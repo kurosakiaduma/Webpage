@@ -16,12 +16,11 @@ h2{
     font-variant: normal;
 }
 
-p{
-    text-align: left;
-    font-size: 20px;
-}
-
 img.center {
     display: block;
     margin: 0 auto;
+}
+
+.me {
+    text-align: center;
 }
