@@ -23,4 +23,21 @@ img.center {
 
 .me {
     text-align: center;
+    color: blue;
+}
+
+.echo{
+    color: black;
+}
+
+.charlie{
+    color: brown;
+}
+
+.olists{
+    text-align: center;
+}
+
+.ulists{
+    text-align: center;
 }
