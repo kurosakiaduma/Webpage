@@ -10,7 +10,7 @@ This is a webpage that details the recipe of chocolate chip cookies and how to m
 1. To view the raw code of the webpage you will probably need a text editor e..g **Atom** or **Brackets**
 
 ### Installing
-* Using your **Terminal**, you will need to clone/fork the repository containing the root folder to your computer.
+* Using your **Terminal**, you will need to clone/fork the repository containing the root folder to your computer using this command: $ git clone https:github.com/kurosakiaduma/webpage
 
 OR
 
