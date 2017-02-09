@@ -25,7 +25,7 @@ OR
 * HTML
 * CSS
 
-## Authors
+## Author
 The author of this project is Tevin Joel Aduma
 
 You can reach me via my:
