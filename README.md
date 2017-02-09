@@ -29,11 +29,11 @@ Directly download the root folder to your computer using [this link](https://git
 The author of this project is Tevin Joel Aduma
 
 You can reach me via my:
-1. [Facebook](https://facebook.com/taduma)
+* [Facebook](https://facebook.com/taduma)
 
-1. [Outlook](mailto:tevin74@live.com)
+* [Outlook](mailto:tevin74@live.com)
 
-1.[Gmail](mailto:kurosakiaduma@gmail.com)
+* [Gmail](mailto:kurosakiaduma@gmail.com)
 
 ## License
 MIT License
